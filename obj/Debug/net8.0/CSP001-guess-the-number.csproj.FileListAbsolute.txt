@@ -1,0 +1,15 @@
+/Users/marcelaavellaneda/documentos/Proyectos/CSP001-guess-the-number/bin/Debug/net8.0/CSP001-guess-the-number
+/Users/marcelaavellaneda/documentos/Proyectos/CSP001-guess-the-number/bin/Debug/net8.0/CSP001-guess-the-number.deps.json
+/Users/marcelaavellaneda/documentos/Proyectos/CSP001-guess-the-number/bin/Debug/net8.0/CSP001-guess-the-number.runtimeconfig.json
+/Users/marcelaavellaneda/documentos/Proyectos/CSP001-guess-the-number/bin/Debug/net8.0/CSP001-guess-the-number.dll
+/Users/marcelaavellaneda/documentos/Proyectos/CSP001-guess-the-number/bin/Debug/net8.0/CSP001-guess-the-number.pdb
+/Users/marcelaavellaneda/documentos/Proyectos/CSP001-guess-the-number/obj/Debug/net8.0/CSP001-guess-the-number.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marcelaavellaneda/documentos/Proyectos/CSP001-guess-the-number/obj/Debug/net8.0/CSP001-guess-the-number.AssemblyInfoInputs.cache
+/Users/marcelaavellaneda/documentos/Proyectos/CSP001-guess-the-number/obj/Debug/net8.0/CSP001-guess-the-number.AssemblyInfo.cs
+/Users/marcelaavellaneda/documentos/Proyectos/CSP001-guess-the-number/obj/Debug/net8.0/CSP001-guess-the-number.csproj.CoreCompileInputs.cache
+/Users/marcelaavellaneda/documentos/Proyectos/CSP001-guess-the-number/obj/Debug/net8.0/CSP001-guess-the-number.sourcelink.json
+/Users/marcelaavellaneda/documentos/Proyectos/CSP001-guess-the-number/obj/Debug/net8.0/CSP001-guess-the-number.dll
+/Users/marcelaavellaneda/documentos/Proyectos/CSP001-guess-the-number/obj/Debug/net8.0/refint/CSP001-guess-the-number.dll
+/Users/marcelaavellaneda/documentos/Proyectos/CSP001-guess-the-number/obj/Debug/net8.0/CSP001-guess-the-number.pdb
+/Users/marcelaavellaneda/documentos/Proyectos/CSP001-guess-the-number/obj/Debug/net8.0/CSP001-guess-the-number.genruntimeconfig.cache
+/Users/marcelaavellaneda/documentos/Proyectos/CSP001-guess-the-number/obj/Debug/net8.0/ref/CSP001-guess-the-number.dll
