@@ -1,4 +1,5 @@
 ﻿using System;
+using game;
 
 namespace GuessNumber
 {
@@ -6,19 +7,12 @@ namespace GuessNumber
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
-            Console.WriteLine("Please enter a number:");
-            string userInput = Console.ReadLine();
 
-            // Convertir la entrada del usuario a un número entero
-            if (int.TryParse(userInput, out int number))
-            {
-                Console.WriteLine($"You entered: {number}");
-            }
-            else
-            {
-                Console.WriteLine("Invalid input. Please enter a valid number.");
-            }
+            Console.WriteLine("Bienvenida,vamos a jugar! Adivina un número entre 1 y 100");
+            Console.WriteLine();
+            
+            MyFunctions myFunctions = new MyFunctions(); // Crear una instancia de MyFunctions
+            myFunctions.GenerateAndSaveNum(); // Llamar al método GenerateAndSaveNum
 
 
         }
